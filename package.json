@@ -1,0 +1,16 @@
+{
+  "name": "api_agenda",
+  "version": "1.0.0",
+  "description": "Api para la aplicación de la agenda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D.Albanil",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
